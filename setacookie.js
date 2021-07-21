@@ -1,4 +1,4 @@
 (function() {
-document.cookie = "username=John Doe";
-alert("Setting cookie");
+document.cookie = "cookie1=Essential";
+alert("Setting ESSENTIAL cookie");
 })();
